@@ -1,4 +1,3 @@
-<img width="1882" height="821" alt="image" src="https://github.com/user-attachments/assets/f79938de-37bb-4a93-afc6-6305b600bfb8" /># 19AI304-Fundamentals-of-C-Programming-2025-Odd-M6
 # IAPR-6- Module 6 - FoC
 ## 11. Implementation of the concept of pointer to function.
 ## 12. Implementation of programs using structure and union.
